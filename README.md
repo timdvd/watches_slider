@@ -1,4 +1,3 @@
-Overview:
 The Watches Slider Component provides a horizontal scrolling view of watch items with smooth animation,
 allowing users to browse through products. It is ideal for displaying featured watches, collections, 
 or product categories. It has strict and simple design.
